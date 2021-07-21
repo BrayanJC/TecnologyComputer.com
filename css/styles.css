@@ -213,9 +213,9 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 Hero
 ========================================================================== */
 .hero { background: url('../img/AD.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
-.hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
-.hero h1 span { color: #a1a9b0; display: inline-block; }
-.hero p { letter-spacing: 1px; }
+.hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; color:#08509E;}
+.hero h1 span { color: #000000; display: inline-block; }
+.hero p { letter-spacing: 1px; color:#000000; }
 
 .learn-more-btn { background: #08509E;
  padding: 20px 40px;
